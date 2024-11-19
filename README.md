@@ -34,3 +34,4 @@ For this Case Study I'm using Power BI Desktop a Windows desktop application.
 
 #### Open and Connect to the Data
 Open Power BI
+![Open Power BI](PowerBI_Screenshots/PowerBI_1.png)
