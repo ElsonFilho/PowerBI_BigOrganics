@@ -33,5 +33,26 @@ Power BI is a collection of software services, apps, and connectors that work to
 For this Case Study I'm using Power BI Desktop a Windows desktop application.
 
 #### Open and Connect to the Data
-Open Power BI
+Open Power BI and click on "Blank report".
 ![Open Power BI](PowerBI_Screenshots/PowerBI_1.png)
+
+Select "Get Data From Another Source ->".
+![Get Data From Another Source ->](PowerBI_Screenshots/PowerBI_2.png)
+
+Select TXT/CSV and click Connect
+
+![Select TXT/CSV](PowerBI_Screenshots/PowerBI_3.png)
+
+Select the big_organics.csv file. And Open.
+
+Check if everything is fine and click Load.
+![Load](PowerBI_Screenshots/PowerBI_4.png)
+
+Go to Table View, so we can adapt the table adjusting the variable names.
+![Table View](PowerBI_Screenshots/PowerBI_5.png)
+
+On DATA, take the first variable DemAffl, click on ... and click on Rename.
+![Table View](PowerBI_Screenshots/PowerBI_6.png)
+
+Rename all the the variables accordingly, to look like this:
+![Rename](PowerBI_Screenshots/PowerBI_7.png)
