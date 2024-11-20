@@ -73,9 +73,21 @@ Select Customer Loyalty ID as Values and Organics Purchase Indicator as Details.
 On Visualizations, use Format visual to adjust the chart as you desire, for example:
 ![Donut with Variables](Screenshots/BigOrganics_11.png)
 
-Now let's add a bar chart to see the Purchase Counts.
+Now let's add a Bar Chart to analyse the Purchase Counts.
 ![BarChart](Screenshots/BigOrganics_12.png)
 
 Again, feel free to use Format visual to adjust the chart as you desire, for example:
 ![BarChart Adjustments](Screenshots/BigOrganics_13.png)
 
+Now, create a Bar Chart to analyse Gender and adjust the formats, for example:
+![BarChart gender](Screenshots/BigOrganics_14.png)
+
+Similarly, create 2 more Bar Charts to analyse Loyalty Status and Geographic Region, and adjust the formats, for example:
+![BarCharts Loyalty and Region](Screenshots/BigOrganics_15.png)
+
+To finish this page of the Report, create 4 Histograms to analyse Age, Affluence, Tenure and Total Spend.
+You can use Bar Charts for this. Example:
+![BarCharts Loyalty and Region](Screenshots/BigOrganics_16.png)
+
+Now, using this report, try to understand the factors influencing the Organics Purchase. You can select the values on the Donut Chart and verify how the other charts change.
+![Report](Screenshots/BigOrganics_17.png)
