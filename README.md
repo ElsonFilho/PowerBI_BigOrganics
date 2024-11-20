@@ -58,14 +58,14 @@ Rename all the the variables accordingly, to look like this:
 ![Rename](Screenshots/BigOrganics_07.png)
 
 Change the Summarization for the variable Customer Loyalty ID.
-![Summarization](Screenshots/BigOrganics_08.png)
+![Summarization](Screenshots/BigOrganics_09.png)
 
 Now it is a good time to save it. On the top menu click on File, and Save as (where you want to save it, with the name you want), I saved as BigOrganics. 
 
 Then go back to the Report view, by clicking on the little bar chart on the side menu.
 
 Let's create our first chart, a Donut Chart. On the Visualizations, click on Donut Chart.
-![Donut](Screenshots/BigOrganics_09.png)
+![Donut](Screenshots/BigOrganics_08.png)
 
 Select Customer Loyalty ID as Values and Organics Purchase Indicator as Details.
 ![Donut with Variables](Screenshots/BigOrganics_10.png)
