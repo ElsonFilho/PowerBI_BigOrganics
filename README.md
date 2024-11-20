@@ -34,7 +34,7 @@ For this Case Study I'm using Power BI Desktop a Windows desktop application.
 
 #### Open and Connect to the Data
 Open Power BI and click on "Blank report".
-![Open Power BI](PowerBI_Screenshots/PowerBI_1.png)
+![Open Power BI](Screenshots/BigOrganics_1.png)
 
 Select "Get Data From Another Source ->".
 ![Get Data From Another Source ->](PowerBI_Screenshots/PowerBI_2.png)
