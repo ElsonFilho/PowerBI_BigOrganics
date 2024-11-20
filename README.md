@@ -55,10 +55,10 @@ On DATA, take the first variable DemAffl, click on ... and click on Rename.
 ![Table View](Screenshots/BigOrganics_06.png)
 
 Rename all the the variables accordingly, to look like this:
-![Rename](Screenshots/BigOrganics_08.png)
+![Rename](Screenshots/BigOrganics_07.png)
 
 Change the Summarization for the variable Customer Loyalty ID.
-![Summarization](Screenshots/BigOrganics_07.png)
+![Summarization](Screenshots/BigOrganics_08.png)
 
 Now it is a good time to save it. On the top menu click on File, and Save as (where you want to save it, with the name you want), I saved as BigOrganics. 
 
