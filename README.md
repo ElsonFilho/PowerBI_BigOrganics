@@ -34,47 +34,48 @@ For this Case Study I'm using Power BI Desktop a Windows desktop application.
 
 #### Open and Connect to the Data
 Open Power BI and click on "Blank report".
-![Open Power BI](Screenshots/BigOrganics_1.png)
+![Open Power BI](Screenshots/BigOrganics_01.png)
 
 Select "Get Data From Another Source ->".
-![Get Data From Another Source ->](PowerBI_Screenshots/PowerBI_2.png)
+![Get Data From Another Source ->](Screenshots/BigOrganics_02.png)
 
 Select TXT/CSV and click Connect
 
-![Select TXT/CSV](PowerBI_Screenshots/PowerBI_3.png)
+![Select TXT/CSV](Screenshots/BigOrganics_03.png)
 
 Select the big_organics.csv file. And Open.
 
 Check if everything is fine and click Load.
-![Load](PowerBI_Screenshots/PowerBI_4.png)
+![Load](Screenshots/BigOrganics_04.png)
 
 Go to Table View, so we can adapt the table adjusting the variable names.
-![Table View](PowerBI_Screenshots/PowerBI_5.png)
+![Table View](Screenshots/BigOrganics_05.png)
 
 On DATA, take the first variable DemAffl, click on ... and click on Rename.
-![Table View](PowerBI_Screenshots/PowerBI_6.png)
+![Table View](Screenshots/BigOrganics_06.png)
 
 Rename all the the variables accordingly, to look like this:
-![Rename](PowerBI_Screenshots/PowerBI_7.png)
+![Rename](Screenshots/BigOrganics_07.png)
 
 Change the Summarization for the variable Customer Loyalty ID.
-![Summarization](PowerBI_Screenshots/PowerBI_8.png)
+![Summarization](Screenshots/BigOrganics_08.png)
 
 Now it is a good time to save it. On the top menu click on File, and Save as (where you want to save it, with the name you want), I saved as BigOrganics. 
 
 Then go back to the Report view, by clicking on the little bar chart on the side menu.
 
 Let's create our first chart, a Donut Chart. On the Visualizations, click on Donut Chart.
-![Donut](PowerBI_Screenshots/PowerBI_9.png)
+![Donut](Screenshots/BigOrganics_09.png)
 
 Select Customer Loyalty ID as Values and Organics Purchase Indicator as Details.
-![Donut with Variables](PowerBI_Screenshots/PowerBI_11.png)
+![Donut with Variables](Screenshots/BigOrganics_10.png)
 
 On Visualizations, use Format visual to adjust the chart as you desire, for example:
-![Donut with Variables](PowerBI_Screenshots/PowerBI_12.png)
+![Donut with Variables](Screenshots/BigOrganics_11.png)
 
 Now let's add a bar chart to see the Purchase Counts.
-![BarChart](PowerBI_Screenshots/PowerBI_13.png)
+![BarChart](Screenshots/BigOrganics_12.png)
 
 Again, feel free to use Format visual to adjust the chart as you desire, for example:
-![BarChart Adjustments](PowerBI_Screenshots/PowerBI_14.png)
+![BarChart Adjustments](Screenshots/BigOrganics_13.png)
+
