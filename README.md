@@ -63,6 +63,18 @@ Change the Summarization for the variable Customer Loyalty ID.
 Now it is a good time to save it. On the top menu click on File, and Save as (where you want to save it, with the name you want), I saved as BigOrganics. 
 
 Then go back to the Report view, by clicking on the little bar chart on the side menu.
+
 Let's create our first chart, a Donut Chart. On the Visualizations, click on Donut Chart.
 ![Donut](PowerBI_Screenshots/PowerBI_9.png)
 
+Select Customer Loyalty ID as Values and Organics Purchase Indicator as Details.
+![Donut with Variables](PowerBI_Screenshots/PowerBI_11.png)
+
+On Visualizations, use Format visual to adjust the chart as you desire, for example:
+![Donut with Variables](PowerBI_Screenshots/PowerBI_12.png)
+
+Now let's add a bar chart to see the Purchase Counts.
+![BarChart](PowerBI_Screenshots/PowerBI_13.png)
+
+Again, feel free to use Format visual to adjust the chart as you desire, for example:
+![BarChart Adjustments](PowerBI_Screenshots/PowerBI_14.png)
