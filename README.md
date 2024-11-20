@@ -56,3 +56,13 @@ On DATA, take the first variable DemAffl, click on ... and click on Rename.
 
 Rename all the the variables accordingly, to look like this:
 ![Rename](PowerBI_Screenshots/PowerBI_7.png)
+
+Change the Summarization for the variable Customer Loyalty ID.
+![Summarization](PowerBI_Screenshots/PowerBI_8.png)
+
+Now it is a good time to save it. On the top menu click on File, and Save as (where you want to save it, with the name you want), I saved as BigOrganics. 
+
+Then go back to the Report view, by clicking on the little bar chart on the side menu.
+Let's create our first chart, a Donut Chart. On the Visualizations, click on Donut Chart.
+![Donut](PowerBI_Screenshots/PowerBI_9.png)
+
