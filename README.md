@@ -60,6 +60,9 @@ Rename all the the variables accordingly, to look like this:
 Change the Summarization for the variable Customer Loyalty ID.
 ![Summarization](Screenshots/BigOrganics_09.png)
 
+Select Organics Purchase Indicator and change its Data type to Text.
+![DataType](Screenshots/BigOrganics_09_B.png)
+
 Now it is a good time to save it. On the top menu click on File, and Save as (where you want to save it, with the name you want), I saved as BigOrganics. 
 
 Then go back to the Report view, by clicking on the little bar chart on the side menu.
@@ -85,20 +88,29 @@ Now, create a Bar Chart to analyse Gender and adjust the formats, for example:
 Similarly, create 2 more Bar Charts to analyse Loyalty Status and Geographic Region, and adjust the formats, for example:
 ![BarCharts Loyalty and Region](Screenshots/BigOrganics_15.png)
 
-To finish this page of the Report, create 4 Histograms to analyse Age, Affluence, Tenure and Total Spend.
+Additionaly, create 4 Histograms to analyse Age, Affluence, Tenure and Total Spend.
 You can use Bar Charts for this. Example:
 ![BarCharts Loyalty and Region](Screenshots/BigOrganics_16.png)
 
 Before we proceed, notice that on Gender we have the values: F (female), M (male), U (Unknow) and blank. Let's treat this and replace the blanks as U.
-![BarCharts Loyalty and Region](Screenshots/BigOrganics_17.png)
-![BarCharts Loyalty and Region](Screenshots/BigOrganics_18.png)
-![BarCharts Loyalty and Region](Screenshots/BigOrganics_19.png)
-Then, click Close & Apply.
+Click on Home, Transform data, Transform data.
+![Transform data](Screenshots/BigOrganics_17.png)
 
+On the Table select Gender and with the right mouse buttom click and click on Replace Values.
+![BarCharts Loyalty and Region](Screenshots/BigOrganics_18.png)
+
+Replace the blanks with U.
+
+![BarCharts Loyalty and Region](Screenshots/BigOrganics_19.png)
+
+Then, click Close & Apply.
 
 Now, using this report, try to understand the factors influencing the Organics Purchase. You can select the values on the Donut Chart and verify how the other charts change.
 ![Report](Screenshots/BigOrganics_20.png)
 
 Rename this Page to something meaninful, e.g.: Explore. And click on + to add a new page.
-There is a better way to find what is influencing the Organics purchases.
+
+In Power BI, there is a better way to find what is influencing the Organics purchases.
 The key influencers visual helps you identify the factors that impact a metric of interest. It analyzes your data, prioritizes the most significant factors, and presents them as key influencers.
+
+On the new page 
