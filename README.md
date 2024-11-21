@@ -89,5 +89,10 @@ To finish this page of the Report, create 4 Histograms to analyse Age, Affluence
 You can use Bar Charts for this. Example:
 ![BarCharts Loyalty and Region](Screenshots/BigOrganics_16.png)
 
+Before we proceed, notice that on Gender we have the values: F (female), M (male), U (Unknow) and blank. Let's treat this and replace the blanks as U.
+
 Now, using this report, try to understand the factors influencing the Organics Purchase. You can select the values on the Donut Chart and verify how the other charts change.
 ![Report](Screenshots/BigOrganics_17.png)
+
+
+The key influencers visual helps you identify the factors that impact a metric of interest. It analyzes your data, prioritizes the most significant factors, and presents them as key influencers.
