@@ -120,10 +120,25 @@ Analyse: Organic Purchase Indicator, and Explain by: Affluence Grade,Age, Gender
 ![Key influencer Analyse and Explain](Screenshots/BigOrganics_22.png)
 
 Clearly, the Gender is top influencer for purchasing Organics products, Females buy 2.9 times more than the others.
+
 Check also the other influencers by clinking on them.
 ![Other Key influencers](Screenshots/BigOrganics_23.png)
 
 Also check the main influencers for not buying. On What Influences Organics Purchase Indicator to be, select 0.
 ![Other Key influencers for 0](Screenshots/BigOrganics_24.png)
 
+Notice that the Key influencers tab allows you to evaluate each factor individually, which is very useful.
 
+Now, click on the Top Segments tab, it highlights how combinations of factors influence the metric you're analyzing.  
+
+Initially, the Top Segments tab provides an overview of all segments identified by Power BI. For example, six segments were discovered, ranked by the percentage of Organics Purchased within each segment. Segment 1, for instance, shows 70.7% of customers. The bubble's height reflects the proportion of Organics Purchased, while its size indicates the number of customers within the segment.
+![Segments](Screenshots/BigOrganics_25.png)
+
+Clicking on a bubble reveals detailed information about that segment. 
+![Segment 1](Screenshots/BigOrganics_26.png)
+For example, selecting Segment 1 shows that it includes richer younger female customers.
+In this group, 70.7% of customers purchased Organics products, significantly higher than the overall average of 24.8%, 46 percent points higher. Additionally, Segment 1 represents approximately 10.7% of the data, making it a noteworthy and actionable portion of the population.
+
+Explore the other segments and also change What Influences Organics Purchase Indicator to be 0.
+
+Rename this page, e.g.: Key Influencers. And don't forget to save it.
