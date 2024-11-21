@@ -90,9 +90,15 @@ You can use Bar Charts for this. Example:
 ![BarCharts Loyalty and Region](Screenshots/BigOrganics_16.png)
 
 Before we proceed, notice that on Gender we have the values: F (female), M (male), U (Unknow) and blank. Let's treat this and replace the blanks as U.
+![BarCharts Loyalty and Region](Screenshots/BigOrganics_17.png)
+![BarCharts Loyalty and Region](Screenshots/BigOrganics_18.png)
+![BarCharts Loyalty and Region](Screenshots/BigOrganics_19.png)
+Then, click Close & Apply.
+
 
 Now, using this report, try to understand the factors influencing the Organics Purchase. You can select the values on the Donut Chart and verify how the other charts change.
-![Report](Screenshots/BigOrganics_17.png)
+![Report](Screenshots/BigOrganics_20.png)
 
-
+Rename this Page to something meaninful, e.g.: Explore. And click on + to add a new page.
+There is a better way to find what is influencing the Organics purchases.
 The key influencers visual helps you identify the factors that impact a metric of interest. It analyzes your data, prioritizes the most significant factors, and presents them as key influencers.
