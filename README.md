@@ -113,4 +113,17 @@ Rename this Page to something meaninful, e.g.: Explore. And click on + to add a 
 In Power BI, there is a better way to find what is influencing the Organics purchases.
 The key influencers visual helps you identify the factors that impact a metric of interest. It analyzes your data, prioritizes the most significant factors, and presents them as key influencers.
 
-On the new page 
+On the new page, click on the Key influencers visual.
+![Key influencer](Screenshots/BigOrganics_21.png)
+
+Analyse: Organic Purchase Indicator, and Explain by: Affluence Grade,Age, Gender, Loyalty Card Tenure and Loyalty Status. Set all summarizations in the Explain by as Don't Summarize. On What Influences Organics Purchase Indicator to be, select 1.
+![Key influencer Analyse and Explain](Screenshots/BigOrganics_22.png)
+
+Clearly, the Gender is top influencer for purchasing Organics products, Females buy 2.9 times more than the others.
+Check also the other influencers by clinking on them.
+![Other Key influencers](Screenshots/BigOrganics_23.png)
+
+Also check the main influencers for not buying. On What Influences Organics Purchase Indicator to be, select 0.
+![Other Key influencers for 0](Screenshots/BigOrganics_24.png)
+
+
